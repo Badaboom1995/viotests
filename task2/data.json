@@ -1,0 +1,17 @@
+{
+  "tag": "a",
+  "content": "some content",
+  "attr": {
+    "href": "app.php?adress",
+    "id": "someId"
+  },
+  "events": {
+    "click": "alert(this.href)",
+    "focus": "this.className='active'"
+  },
+  "style": {
+    "width": "100px",
+    "height": "100px"
+
+  }
+}

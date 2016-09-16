@@ -1,0 +1,6 @@
+.main-block {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  margin: 10px; }
