@@ -1,0 +1,30 @@
+{
+  "name": "frank",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badaboom1995/Frank.git"
+  },
+  "author": "Alex&Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Badaboom1995/Frank/issues"
+  },
+  "homepage": "https://github.com/Badaboom1995/Frank#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uncss": "^1.0.6",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

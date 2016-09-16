@@ -1,0 +1,15 @@
+.header{
+	min-height: 100px;
+	background-color: #ccc;
+	opacity: 0.5;
+	&--fixed{
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+	&--absolute{
+		position: absolute;
+		width: 100%;
+	}
+}
